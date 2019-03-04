@@ -1,2 +1,2 @@
 # yaoboliu-react
-Practice react and webpack 
+use webpack build vue project 
